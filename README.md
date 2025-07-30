@@ -1,4 +1,14 @@
-# Real-Time Collaborative Document Editor
+**COMPANY:** CODTECH IT SOLUTIONS
+
+**NAME:** RESHMA M
+
+**INTERN ID:** CT04DH1296
+
+**DOMAIN:** FULL STACK WEB DEVELOPMENT
+
+**DURATION:** 4 WEEEKS
+
+**MENTOR:** NEELA SANTOSH# Real-Time Collaborative Document Editor
 
 A powerful web-based editor that allows multiple users to collaborate on documents in real-time using WebSockets and Quill.js.
 
