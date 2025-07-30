@@ -101,7 +101,12 @@ You can share this link with others to collaborate in real-time on the same docu
 
 ---
 
+## 👩‍💻 Author
 
+**Reshma Maheshkumar**  
+GitHub: [@reshmamaheshkumar](https://github.com/reshmamaheshkumar)
+
+---
 
 
 
