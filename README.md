@@ -38,6 +38,14 @@ By extending this system with authentication, database integration, document sto
 
 ---
 
+## Demo Screenshot
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/06ba6870-47df-46b9-8dec-1d788d4151eb" alt="Real-Time Collaborative Editor Screenshot" width="800"/>
+</p>
+
+---
+
 ## 🚀 Getting Started
 
 ### Clone the Repository
