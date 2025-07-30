@@ -8,7 +8,10 @@
 
 **DURATION:** 4 WEEEKS
 
-**MENTOR:** NEELA SANTOSH# Real-Time Collaborative Document Editor
+**MENTOR:** NEELA SANTOSH
+
+
+# 📝Real-Time Collaborative Document Editor
 
 A powerful web-based editor that allows multiple users to collaborate on documents in real-time using WebSockets and Quill.js.
 
